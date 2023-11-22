@@ -2,7 +2,14 @@
 
 # clim2agri
 
-## Configuring the Environment 
+## Table of Content
+
+- [Configuring the Environment](#configuring-the-environment)
+- [Access to Gridded Products](#access-to-gridded-products)
+- [How to… ?](#how-to…-?)
+
+
+##  Configuring the Environment 
 
 In this section we show how to configure a python virtual environment in order to be able to run the code without any problem. For what follows you will need to have installed Python 3, and the pip package. The list of instructions are:
 
