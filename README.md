@@ -6,7 +6,7 @@
 
 - [Configuring the Environment](#configuring-the-environment)
 - [Access to Gridded Products](#access-to-gridded-products)
-- [How to… ?](#how-to)
+- [How to… ?](#how-to-)
 
 
 ##  Configuring the Environment 
