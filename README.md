@@ -19,7 +19,7 @@ Download and then decompress the folder.
 
 * Create Virtual Environment:
   
-Open the terminal and access the folder you have just decompressed. This can be accomplished with the ‘cd’ command followed by the path to the folder. The picture below shows an example.
+Open the terminal and access the folder you have just decompressed. This can be accomplished with the ‘cd’ command followed by the path to the folder.
 
 In order to create the virtual environment you should write the following command, where ‘name_of_env’ is an arbitrary name for the environment you are creating.
 
